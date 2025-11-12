@@ -49,7 +49,7 @@ const Navbar = () => {
                   className="h-10 w-auto"
                 />
                 <span className="text-xl font-bold text-white hidden sm:block">
-                  Googoo Foods
+                  By Googoo Foods
                 </span>
               </Link>
             </div>
